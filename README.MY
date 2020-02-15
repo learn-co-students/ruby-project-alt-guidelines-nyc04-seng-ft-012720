@@ -1,0 +1,13 @@
+1. Frist fork and the clon it from github 
+2. cd name of the folder 
+3. bundle install 
+4. Open it in Visual Studio - code . 
+5. in order to run the program - ruby bin/run.rb 
+6. This app is about rating dishes 
+7. first it asks about your username 
+8. second you will have choices what to do: create, read, update, delete reviews and Exit
+9. if you wanna create review u will have choises of dishes to rate 
+10.if you wanna read all the reviews about the dishes you could just press read reviews
+11.if you wanna update your review you could just go to update review and change your rating 
+12. if you change your mind and want to delete your review, go to delete review 
+13. else if you dont wanna do anthtin exit 
